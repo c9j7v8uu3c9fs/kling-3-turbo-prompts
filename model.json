@@ -1,0 +1,15 @@
+{
+  "id": "kling-3.0-turbo",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T15:32:49Z",
+  "prices": {
+    "default": {
+      "list": 0.1144,
+      "effective": 0.1144
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.1144 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/kling-3-0-turbo"
+}
